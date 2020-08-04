@@ -1,2 +1,2 @@
 # GO
-go programming
+basic of Go programming
