@@ -9,13 +9,13 @@ Go uses interfaces as the building blocks of code reusability.
 The basic structure of a Go programs consists of following parts:-
 
 Package Declaration.
-Import Packages.
-Variables.
-Statements and Expressions.
-Functions.
-Comments.
+1. Import Packages.
+2. Variables.
+3. Statements and Expressions.
+4. Functions.
+5. Comments.
 
-basic of Go programming
+Basic of Go programming
 
 1. how to print a something in go.
 2. even odd in go
