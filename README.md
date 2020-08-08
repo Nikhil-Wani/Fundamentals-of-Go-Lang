@@ -8,12 +8,12 @@ Go has built-in concurrency.
 Go uses interfaces as the building blocks of code reusability.
 The basic structure of a Go programs consists of following parts:-
 
-Package Declaration.
-1. Import Packages.
-2. Variables.
-3. Statements and Expressions.
-4. Functions.
-5. Comments.
+1. Package Declaration.
+2. Import Packages.
+3. Variables.
+4. Statements and Expressions.
+5. Functions.
+6. Comments.
 
 Basic of Go programming
 
