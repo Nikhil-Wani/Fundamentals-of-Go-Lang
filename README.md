@@ -22,14 +22,3 @@ Basic of Go programming
 3. switch case in go
 4. for range in go
 5. basic webapp in go
-
-
-
-
-
-
-<h1>Link:</h1>
-
-1. https://www.youtube.com/watch?v=G3PvTWRIhZA&list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMq    
-
-2. https://www.javatpoint.com/go-tutorial.
