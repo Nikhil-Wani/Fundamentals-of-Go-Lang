@@ -16,10 +16,3 @@ The basic structure of a Go programs consists of following parts:-
 5. Functions.
 6. Comments.
 
-<b>Basic of Go programming</b>
-
-1. how to print a something in go.
-2. even odd in go
-3. switch case in go
-4. for range in go
-5. basic webapp in go
