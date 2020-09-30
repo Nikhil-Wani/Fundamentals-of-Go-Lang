@@ -1,5 +1,6 @@
 # GO
-Introduction of GO_lang
+
+<b>Introduction of GO_lang</b>
 
 Go is a programming language which is developed by Google in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically-typed language. Go has a similar syntax to C. It is developed with the vision of high performance and fast development. Go provides type safety, garbage collection, dynamic-typing capability, many advanced built-in types such as variable length arrays and key-value maps etc.
 
@@ -15,7 +16,7 @@ The basic structure of a Go programs consists of following parts:-
 5. Functions.
 6. Comments.
 
-Basic of Go programming
+<b>Basic of Go programming</b>
 
 1. how to print a something in go.
 2. even odd in go
