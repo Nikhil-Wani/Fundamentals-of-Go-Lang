@@ -18,5 +18,5 @@ The basic structure of a Go programs consists of following parts:-
 
 <b>Download Link</b>
 
-https://golang.org/
+You can download go from here https://golang.org/
 
